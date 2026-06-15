@@ -1,0 +1,5 @@
+# Python dependencies for Investment Portfolio Risk Analysis
+# Install with: pip install -r requirements.txt
+
+yfinance>=0.2.18
+pandas>=2.0.0
