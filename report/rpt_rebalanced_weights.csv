@@ -1,0 +1,9 @@
+ticker,ticker_name,asset_class,current_weight_pct,new_weight_pct,action
+GLD,"SPDR Gold Shares",Commodities,23.00,20.25,REDUCE
+VT,"Vanguard Total World Stock ETF",Equity,0.00,18.19,ADD
+IXN,"iShares Global Tech ETF",Equity,17.50,17.13,HOLD
+QQQ,"Invesco NASDAQ 100 ETF",Equity,22.10,16.33,REDUCE
+AGG,"iShares Core US Aggregate Bond ETF","Fixed Income",0.00,15.49,ADD
+VNQ,"Vanguard Real Estate ETF","Real Assets",8.90,12.60,INCREASE
+IEF,"iShares 7-10 Year Treasury Bond ETF","Fixed Income",28.50,0.00,REMOVE
+SPY,"SPDR S&P 500 ETF",Equity,0.00,0.00,REMOVE

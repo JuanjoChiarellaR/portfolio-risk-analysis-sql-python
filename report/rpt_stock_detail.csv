@@ -1,0 +1,25 @@
+period_months,ticker,ticker_name,asset_class,ticker_type,expected_daily_ror_pct,risk_pct,sharpe_ratio,period_start,period_end
+12,IXN,"iShares Global Tech ETF",Equity,Portfolio,0.2016,1.5107,0.1335,2025-06-12,2026-06-12
+12,QQQ,"Invesco NASDAQ 100 ETF",Equity,Portfolio,0.1284,1.0809,0.1188,2025-06-12,2026-06-12
+12,VNQ,"Vanguard Real Estate ETF","Real Assets",Portfolio,0.0538,0.8510,0.0632,2025-06-12,2026-06-12
+12,GLD,"SPDR Gold Shares",Commodities,Portfolio,0.1047,1.7208,0.0608,2025-06-12,2026-06-12
+12,IEF,"iShares 7-10 Year Treasury Bond ETF","Fixed Income",Portfolio,0.0154,0.2965,0.0519,2025-06-12,2026-06-12
+12,SPY,"SPDR S&P 500 ETF",Equity,Benchmark,0.0908,0.7729,0.1175,2025-06-12,2026-06-12
+12,VT,"Vanguard Total World Stock ETF",Equity,Benchmark,0.0964,0.8413,0.1146,2025-06-12,2026-06-12
+12,AGG,"iShares Core US Aggregate Bond ETF","Fixed Income",Benchmark,0.0192,0.2403,0.0799,2025-06-12,2026-06-12
+18,IXN,"iShares Global Tech ETF",Equity,Portfolio,0.1471,1.7579,0.0837,2024-12-12,2026-06-12
+18,GLD,"SPDR Gold Shares",Commodities,Portfolio,0.1279,1.5815,0.0809,2024-12-12,2026-06-12
+18,QQQ,"Invesco NASDAQ 100 ETF",Equity,Portfolio,0.0943,1.4150,0.0667,2024-12-12,2026-06-12
+18,IEF,"iShares 7-10 Year Treasury Bond ETF","Fixed Income",Portfolio,0.0150,0.3439,0.0436,2024-12-12,2026-06-12
+18,VNQ,"Vanguard Real Estate ETF","Real Assets",Portfolio,0.0328,1.0384,0.0316,2024-12-12,2026-06-12
+18,VT,"Vanguard Total World Stock ETF",Equity,Benchmark,0.0773,1.0510,0.0735,2024-12-12,2026-06-12
+18,AGG,"iShares Core US Aggregate Bond ETF","Fixed Income",Benchmark,0.0163,0.2800,0.0581,2024-12-12,2026-06-12
+18,SPY,"SPDR S&P 500 ETF",Equity,Benchmark,0.0643,1.1272,0.0571,2024-12-12,2026-06-12
+24,GLD,"SPDR Gold Shares",Commodities,Portfolio,0.1283,1.4504,0.0885,2024-06-12,2026-06-12
+24,IXN,"iShares Global Tech ETF",Equity,Portfolio,0.1274,1.7023,0.0748,2024-06-12,2026-06-12
+24,QQQ,"Invesco NASDAQ 100 ETF",Equity,Portfolio,0.0977,1.3696,0.0713,2024-06-12,2026-06-12
+24,VNQ,"Vanguard Real Estate ETF","Real Assets",Portfolio,0.0552,1.0022,0.0550,2024-06-12,2026-06-12
+24,IEF,"iShares 7-10 Year Treasury Bond ETF","Fixed Income",Portfolio,0.0177,0.3599,0.0491,2024-06-12,2026-06-12
+24,VT,"Vanguard Total World Stock ETF",Equity,Benchmark,0.0787,0.9904,0.0795,2024-06-12,2026-06-12
+24,SPY,"SPDR S&P 500 ETF",Equity,Benchmark,0.0748,1.0599,0.0705,2024-06-12,2026-06-12
+24,AGG,"iShares Core US Aggregate Bond ETF","Fixed Income",Benchmark,0.0197,0.2912,0.0677,2024-06-12,2026-06-12

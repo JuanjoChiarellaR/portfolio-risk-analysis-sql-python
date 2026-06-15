@@ -1,0 +1,25 @@
+period_months,ticker,asset_class,ticker_type,risk_pct,variance_x10000,corr_vs_spy,corr_vs_agg,corr_vs_vt
+12,IEF,"Fixed Income",Portfolio,0.2965,0.087938,0.2176,0.9719,0.3195
+12,VNQ,"Real Assets",Portfolio,0.8510,0.724156,0.3753,0.4540,0.4413
+12,QQQ,Equity,Portfolio,1.0809,1.168400,0.9435,0.2889,0.9046
+12,IXN,Equity,Portfolio,1.5107,2.282144,0.8754,0.2829,0.8658
+12,GLD,Commodities,Portfolio,1.7208,2.961075,0.2628,0.2415,0.3706
+12,AGG,"Fixed Income",Benchmark,0.2403,0.057723,0.3324,1.0000,0.4286
+12,SPY,Equity,Benchmark,0.7729,0.597365,1.0000,0.3324,0.9615
+12,VT,Equity,Benchmark,0.8413,0.707708,0.9615,0.4286,1.0000
+18,IEF,"Fixed Income",Portfolio,0.3439,0.118278,0.0419,0.9668,0.1155
+18,VNQ,"Real Assets",Portfolio,1.0384,1.078283,0.5967,0.4151,0.6300
+18,QQQ,Equity,Portfolio,1.4150,2.002144,0.9631,0.1653,0.9358
+18,GLD,Commodities,Portfolio,1.5815,2.501128,0.1521,0.1864,0.2694
+18,IXN,Equity,Portfolio,1.7579,3.090154,0.9041,0.1633,0.9019
+18,AGG,"Fixed Income",Benchmark,0.2800,0.078401,0.2071,1.0000,0.2754
+18,VT,Equity,Benchmark,1.0510,1.104616,0.9667,0.2754,1.0000
+18,SPY,Equity,Benchmark,1.1272,1.270567,1.0000,0.2071,0.9667
+24,IEF,"Fixed Income",Portfolio,0.3599,0.129499,0.0054,0.9723,0.0778
+24,VNQ,"Real Assets",Portfolio,1.0022,1.004430,0.5457,0.4197,0.5818
+24,QQQ,Equity,Portfolio,1.3696,1.875818,0.9591,0.1133,0.9261
+24,GLD,Commodities,Portfolio,1.4504,2.103606,0.1607,0.1938,0.2767
+24,IXN,Equity,Portfolio,1.7023,2.897773,0.9016,0.1175,0.8955
+24,AGG,"Fixed Income",Benchmark,0.2912,0.084812,0.1525,1.0000,0.2218
+24,VT,Equity,Benchmark,0.9904,0.980943,0.9636,0.2218,1.0000
+24,SPY,Equity,Benchmark,1.0599,1.123487,1.0000,0.1525,0.9636

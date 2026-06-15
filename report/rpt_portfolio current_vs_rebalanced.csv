@@ -1,0 +1,7 @@
+period_months,portfolio_version,expected_ror_pct,risk_pct,sharpe_ratio,as_of_date
+12,"Current Portfolio",0.0969,1.0593,0.0840,2026-06-12
+12,"Rebalanced Portfolio",0.1130,1.0583,0.1036,2026-06-12
+18,"Current Portfolio",0.0832,1.1745,0.0632,2026-06-12
+18,"Rebalanced Portfolio",0.0928,1.2567,0.0704,2026-06-12
+24,"Current Portfolio",0.0834,1.1259,0.0681,2026-06-12
+24,"Rebalanced Portfolio",0.0881,1.1605,0.0743,2026-06-12
